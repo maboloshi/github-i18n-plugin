@@ -13,6 +13,12 @@
       "key": "!html",
       "selector": "a[aria-label='Pull requests you created']",
       "replacement": "请求拉取"
+    },
+    {
+      "_comments":"账户设置页面，外貌 旁边的 new 标",
+      "key": "!html",
+      "selector": "span[title='Label: New']",
+      "replacement": "新"
     }
   ],
 
