@@ -19,6 +19,13 @@
       "key": "!html",
       "selector": "span[title='Label: New']",
       "replacement": "新"
+    },
+    {
+      "_comments": [
+      ],
+      "key": "data-disable-with",
+      "selector": "button[class='ajax-pagination-btn btn btn-outline width-full f6 mt-0 py-2 contribution-activity-show-more ']",
+      "replacement": "加载中…"
     }
   ],
 
